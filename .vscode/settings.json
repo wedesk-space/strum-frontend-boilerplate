@@ -1,0 +1,46 @@
+{
+  "eslint.workingDirectories": [
+    "./front",
+    "./server",
+    "./@strum",
+  ],
+  "liveServer.settings.port": 5501,
+  "cSpell.words": [
+    "headtitle",
+    "Installeds",
+    "middlewares",
+    "Mytask",
+    "mytasks",
+    "secretkey",
+    "semibold",
+    "serverenv",
+    "soojeong",
+    "spacebar",
+    "sticknote",
+    "stickynote",
+    "upsert",
+    "yoon",
+    "yosep"
+  ],
+  "i18n-ally.enabledFrameworks": [
+    "react"
+  ],
+  "i18n-ally.localesPaths": [
+    "./front/src/middlewares/i18n",
+    "./front/src/middlewares/i18n/locales"
+  ],
+  "i18n-ally.extract.keyMaxLength": 100000,
+  "i18n-ally.enabledParsers": [
+    "json"
+  ],
+  "i18n-ally.keystyle": "nested",
+  "i18n-ally.sourceLanguage": "ko",
+  "files.autoSave": "off",
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "files.exclude": {
+    "node_modules": true
+  },
+}
